@@ -1,23 +1,5 @@
 # Ekar SSTP
 
-### Sentence Search Tupi-Português
-
-O **Ekar SSTP** é uma aplicação desenvolvida em Python para consulta e organização de palavras e sentenças em Tupi acompanhadas de suas respectivas traduções para o português.
-
-O projeto foi desenvolvido como parte de uma atividade extensionista do curso de **Sistemas de Informação**, buscando aplicar recursos tecnológicos ao aprendizado de línguas e à organização e valorização de conhecimentos relacionados às línguas indígenas.
-
----
-
-## Sobre o projeto
-
-O Ekar SSTP surgiu a partir da ideia de adaptar para a língua Tupi um recurso utilizado durante o aprendizado de outros idiomas: a busca por sentenças de exemplo.
-
-A proposta é reunir em um acervo palavras, definições e sentenças em Tupi acompanhadas de suas traduções para o português. Dessa forma, o usuário pode consultar exemplos de uso e também contribuir com novos registros.
-
-Atualmente, o projeto funciona como uma aplicação de **linha de comando (CLI)** desenvolvida em Python, utilizando arquivos JSON para armazenar os dados.
-
----
-
 ## Funcionalidades
 
 O sistema possui quatro opções principais:
